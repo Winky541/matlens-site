@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Abstract coating layers prototype image</title>
+  <rect width="800" height="500" fill="#ece9e3"/>
+  <path d="M90 350c170-190 390-230 630-115v95C470 220 260 260 90 440z" fill="#b7b0a4"/>
+  <path d="M90 300c180-180 400-210 630-105v48C480 145 270 180 90 370z" fill="#d4cec4"/>
+  <path d="M90 250c195-160 410-180 630-85" fill="none" stroke="#726c64" stroke-width="12" stroke-linecap="round"/>
+</svg>

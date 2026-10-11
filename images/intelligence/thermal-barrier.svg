@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title">
+  <title id="title">Abstract thermal barrier prototype image</title>
+  <rect width="1600" height="900" fill="#e8e9e7"/>
+  <g fill="none" stroke="#737875" stroke-width="2" opacity=".55">
+    <path d="M120 650C370 260 650 180 1020 300s390 330 510 430"/>
+    <path d="M70 730C390 340 710 250 1080 370s350 260 470 370"/>
+    <path d="M270 760L580 170M620 780L870 120M980 800l220-610"/>
+  </g>
+  <g fill="#f6f6f3" stroke="#aeb2af" stroke-width="3">
+    <rect x="300" y="240" width="840" height="420" rx="34"/>
+    <rect x="380" y="315" width="680" height="270" rx="24"/>
+  </g>
+  <g fill="#68706c">
+    <circle cx="470" cy="450" r="58"/>
+    <circle cx="650" cy="450" r="58"/>
+    <circle cx="830" cy="450" r="58"/>
+    <circle cx="1010" cy="450" r="58"/>
+  </g>
+  <path d="M290 690h860" stroke="#929793" stroke-width="12" stroke-linecap="round"/>
+</svg>

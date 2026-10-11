@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Abstract recycled polymer prototype image</title>
+  <rect width="800" height="500" fill="#e5e7e3"/>
+  <g fill="#f5f6f3" stroke="#7e857e" stroke-width="4">
+    <circle cx="210" cy="250" r="92"/>
+    <circle cx="400" cy="170" r="92"/>
+    <circle cx="590" cy="250" r="92"/>
+    <circle cx="400" cy="350" r="92"/>
+  </g>
+  <g fill="#7e857e">
+    <circle cx="210" cy="250" r="28"/>
+    <circle cx="400" cy="170" r="28"/>
+    <circle cx="590" cy="250" r="28"/>
+    <circle cx="400" cy="350" r="28"/>
+  </g>
+  <g stroke="#7e857e" stroke-width="10">
+    <path d="M286 218l38-18M476 202l38 16M516 292l-40 22M324 312l-38-20"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Abstract high-strength steel prototype image</title>
+  <rect width="800" height="500" fill="#e4e6e6"/>
+  <g fill="none" stroke="#697176" stroke-width="8">
+    <path d="M70 390L250 105h310l170 285z"/>
+    <path d="M190 390l130-205h180l120 205z"/>
+    <path d="M85 390h630"/>
+  </g>
+  <g fill="#f5f6f5" stroke="#9ca2a4" stroke-width="3">
+    <circle cx="250" cy="105" r="34"/><circle cx="560" cy="105" r="34"/>
+    <circle cx="70" cy="390" r="34"/><circle cx="730" cy="390" r="34"/>
+  </g>
+</svg>

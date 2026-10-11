@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Abstract circular materials prototype image</title>
+  <rect width="800" height="500" fill="#e6e9e4"/>
+  <g fill="none" stroke="#68736a" stroke-width="26" stroke-linecap="round">
+    <path d="M250 165c75-65 190-68 270-8"/>
+    <path d="M557 210c43 90 15 200-64 258"/>
+    <path d="M445 467c-98 24-202-24-246-113"/>
+  </g>
+  <g fill="#68736a">
+    <path d="M516 105l66 80-103 12z"/>
+    <path d="M600 399l-107 69 8-126z"/>
+    <path d="M137 330l113-22-44 106z"/>
+  </g>
+</svg>
